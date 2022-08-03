@@ -10,6 +10,15 @@ Créé avec Javascript avec React et base de données avec MongoDB, le site a po
 
 Mockup fabriqué en Figma
 
+## Topics
+
+- React 
+- Bootstrap 
+- Mongodb 
+- Material-UI 
+- ExpressJS 
+- Framer-motion
+
 ## Links
 
 - Website : [https://vanliberte.fr/accueil](https://vanliberte.fr/accueil)
